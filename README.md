@@ -1,1 +1,2 @@
 # mas
+print"hello world"
